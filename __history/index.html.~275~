@@ -183,7 +183,6 @@ var distance = function(p1,p2) {
  						<p ><img src = "images/caffeina.png"/></p>
  						<p></p>
  						<p>The caffeine molecule view from another angle. </p>
- 						<p></p>
  						<p ><img src = "images/molecola2.png"/></p>
 				</div>
 					<div class="clear"></div>

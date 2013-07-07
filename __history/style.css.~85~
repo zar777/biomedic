@@ -172,12 +172,14 @@ font-family:"Palatino Linotype";
 code, pre {
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 color: #5ba0d6;
+margin-bottom: 30px;
 font-size: 13px;
 }
 code {
 background-color: #5ba0d6;
 border: solid 5px #dbe7f3;
 color:white;
+padding: 0 3px;
 }
 pre {
 padding: 20px;

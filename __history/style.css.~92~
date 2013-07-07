@@ -178,6 +178,7 @@ code {
 background-color: #5ba0d6;
 border: solid 5px #dbe7f3;
 color:white;
+padding: 0 3px;
 }
 pre {
 padding: 20px;

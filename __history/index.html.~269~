@@ -128,7 +128,7 @@ var CYLINDER = function (r,h) {
 return cylinder;
 }							</code>
 						</pre>
-						<p >Spheres that represent atoms.</p>
+						<p >Spheres that represent atoms</p>
 						<p ><img src = "images/circle.png"/></p>
 						<p>The second step of the modeling phase was performed by reproducing a parametric sphere function to create a various spheres with different color and dimension. (passing only the coordinates x,y,z)</p>
 						<p></p>
@@ -155,10 +155,8 @@ return sphereA;
 						</pre>
 						<p>The third step of the modeling phase was performed by reproducing a ties for a various atoms.</p>
 						<p>This has been possible by implementing a distance function that calculates the distance between two centers, given a pair of atoms. Thereafter, for each bond, were performed 1 or 2 rotations, the first axis Z and the second on if and only if the atoms were located on different floors.</p>
-						<p ></p>
 						<p ><img src = "images/ties.png"/></p>
 						<p></p>
-						<p>A code of distance function</p>
 						<pre>
 							<code>
 var distance = function(p1,p2) {
@@ -178,12 +176,8 @@ var distance = function(p1,p2) {
 	}
 							</code>
 						</pre>
-						<p>In conclusion, the bonds were combined with the atoms completing the molecular structure of caffeine.</p>
- 						<p></p>
+						
  						<p ><img src = "images/caffeina.png"/></p>
- 						<p></p>
- 						<p>The caffeine molecule view from another angle. </p>
- 						<p></p>
  						<p ><img src = "images/molecola2.png"/></p>
 				</div>
 					<div class="clear"></div>
